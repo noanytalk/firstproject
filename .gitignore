@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+### 如果被匹配到的文件都会变成灰色，就不能提交到远程仓库上了
+# IntelliJ project files
+### .*：是指以.开头的所有文件
+### **\wrapper：是任意路径下的wrapper文件下的所有文件
+### *.iml：是以.iml结尾的所有文件
+### out：就是根目录下out文件夹下的所有文件
+### **\com\lzc：这是错误的写法，不匹配，一般只允许**\com
+### 有文件夹标志的指匹配的是一个文件夹
+
+### \out\**：这是错误的写法，不匹配，一般只允许**\out
+### .*
+.idea
+.gradle
+*.iws
+*.iml
+*.ipr
+### **\wrapper
+### **\com
+**\out
+**\build
+
